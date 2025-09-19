@@ -16,14 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Current Endeavors
-### Jackson Laboratories
-I am beginning a Academic Year Fellowship at Jackson Laboratory in Farmington, CT. I will be contributing to an existing project in blood transcriptomics by helping with the development of a transcriptome module to contribute to an existing repertoire 
- which provides diagnostic transcription profiles across multiple biological conditions. (My role is currently being developed and I will update this overtime).
-
-### Academic Courses
-I am currently enrolled in collegiate courses pertaining to my data science major including Database Design (MySQL), Intro to AI (Python), Statistics (R/Python). Prior courses include programming language courses (Java, C++, JavaScript), Data Structures (Java) Intro Statistics (in R), Intro to DataScience (both a course in R and Python), and Predictive Modeling (in R), as well as courses general biology and genetics. 
-
-## Past Endeavors
-### Past Projects
- Most of my projects have been academic in nature but include interactive webpages and terminal applications, predictive models using transciption/translation data, and development of datasets for a municipal National Resource Inventory Project. (Projects need to be established as repositories here).
+I am finishing my last semester as a datascience major with a minor in biology (essentially a bioinformatics undergraduste degree with extra math and computer science courses). I am currently taking an intro to AI course, Machine Learning, BioII (evolution, population genetics, phylogeny, and plant/animal systems), and Discrete Math (Proof Writing). I am also working on implementing my own consensus gene module modeling pipeline for single condition datasets which I hope will support the pipeline that I was exposed to in My internship at Jackson Laboratory for Genomic medicine. I will also be performing RNA sequencin and differential expression analysis on results of a crisper knockout experiment perfromed by stutdents at the University of Hartford. I am actively seeking the next chapter in the development of my bioinformatics career either in a bioinformatics role or in a doctoral program. If you are visiting my github profile as a result of my application to your company or program, welcome! Many of my repositories are private but will become public soon. Others, especially those that are related to bioinformatics work, must remain private as they have scripts and notebooks that contain others work. For the time being, I would be able to share aspects of these projects that I had worked on upon request. 
  
